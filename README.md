@@ -64,6 +64,6 @@ OPENAI_API_KEY=your_geminiai_key(you can get from ai.google.dev)
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [VIKAS YADAV](https://github.com/YourUsername)
+Made with ❤️ by [SATYAM KUMAR](https://github.com/satyamk198)
 
 ---
